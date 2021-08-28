@@ -3,7 +3,7 @@
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-*## Table of contents
+## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
@@ -26,8 +26,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/profile/vikrantmalla)
-
+- [Solution URL](https://www.frontendmentor.io/profile/vikrantmalla)
+- [Live Server](https://vikrantmalla.github.io/Fylo-data-storage/)
 
 ### Built with
 
